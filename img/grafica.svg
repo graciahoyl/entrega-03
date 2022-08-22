@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1200 900" style="enable-background:new 0 0 1200 900;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#CCCCCC;}
+	.st1{fill:#CCCCCC;}
+	.st2{fill:#FF7F0E;}
+	.st3{fill:#1F77B4;}
+	.st4{fill:#2CA02C;}
+	.st5{fill:#9467BD;}
+	.st6{fill:#D62728;}
+	.st7{font-family:'ArialMT';}
+	.st8{font-size:10px;}
+	.st9{font-family:'Arial-BoldMT';}
+	.st10{font-size:12px;}
+</style>
+<g id="links">
+	<path class="st0" d="M500,450c-9.8,55.8,41.7-38.4,83.4-76.7"/>
+	<path class="st0" d="M500,450c-9.8,55.8,51.3,24,102.7,48"/>
+	<path class="st0" d="M500,450c-9.8,55.8-7.9,56.1-15.8,112.2"/>
+	<path class="st0" d="M500,450c-9.8,55.8-56.3,6.4-112.6,12.9"/>
+	<path class="st0" d="M500,450c-9.8,55.8-26.1-50.3-52.3-100.6"/>
+	<path class="st0" d="M583.4,373.3c41.7-38.4-26.1-83.3-6.9-136.6"/>
+	<path class="st0" d="M583.4,373.3c41.7-38.4,41.6-38.4,83.3-76.8"/>
+	<path class="st0" d="M583.4,373.3c41.7-38.4,62.8-10,111.5-38.9"/>
+	<path class="st0" d="M583.4,373.3c41.7-38.4,73.6,11.4,125.9-10.4"/>
+	<path class="st0" d="M583.4,373.3c41.7-38.4,80.8,32.9,135.6,18.3"/>
+	<path class="st0" d="M602.7,498c51.3,24,66-69.3,122.2-76.3"/>
+	<path class="st0" d="M602.7,498c51.3,24,66.9-35.3,123.4-31.1"/>
+	<path class="st0" d="M602.7,498c51.3,24,61.5-3.8,116.2,11"/>
+	<path class="st0" d="M602.7,498c51.3,24,54.5,16.7,106.9,38.3"/>
+	<path class="st0" d="M602.7,498c51.3,24,45.3,35.7,94.6,63.6"/>
+	<path class="st0" d="M602.7,498c51.3,24,34,53.1,79.5,86.8"/>
+	<path class="st0" d="M602.7,498c51.3,24,20.7,69,61.8,108"/>
+	<path class="st0" d="M602.7,498c51.3,24,5.7,83,41.8,126.7"/>
+	<path class="st0" d="M602.7,498c51.3,24-10.8,95.1,19.8,142.7"/>
+	<path class="st0" d="M484.2,562.2c-7.9,56.1,78.7,45.7,99.7,98.3"/>
+	<path class="st0" d="M484.2,562.2c-7.9,56.1,47.1,54.9,57.5,110.6"/>
+	<path class="st0" d="M484.2,562.2c-7.9,56.1,24.7,57.5,27.7,114.1"/>
+	<path class="st0" d="M484.2,562.2c-7.9,56.1,3.6,57.3-0.5,113.9"/>
+	<path class="st0" d="M484.2,562.2c-7.9,56.1-16.4,54.7-27.2,110.3"/>
+	<path class="st0" d="M484.2,562.2c-7.9,56.1-35.9,49.7-53.1,103.7"/>
+	<path class="st0" d="M484.2,562.2c-7.9,56.1-54.6,42.5-78,94.1"/>
+	<path class="st0" d="M484.2,562.2c-7.9,56.1-72.1,33.3-101.4,81.8"/>
+	<path class="st0" d="M484.2,562.2c-7.9,56.1-88.3,22.2-123,67"/>
+	<path class="st0" d="M387.4,462.9c-56.3,6.4-32.8,75.1-81.3,104.5"/>
+	<path class="st0" d="M387.4,462.9c-56.3,6.4-54.7,17.2-110.5,27.2"/>
+	<path class="st0" d="M387.4,462.9c-56.3,6.4-57.2-4.5-113.8-1.8"/>
+	<path class="st0" d="M387.4,462.9c-56.3,6.4-56.9-25.9-113.4-30.2"/>
+	<path class="st0" d="M387.4,462.9c-56.3,6.4-54.1-46.3-109.6-57.4"/>
+	<path class="st0" d="M387.4,462.9c-56.3,6.4-49-65.8-102.8-83.4"/>
+	<path class="st0" d="M447.7,349.4c-26.1-50.3-80.2-6-124.3-41.5"/>
+	<path class="st0" d="M447.7,349.4c-26.1-50.3-25.2-50.8-51-101.2"/>
+	<path class="st0" d="M447.7,349.4c-26.1-50.3,12.1-64.6-1.3-119.7"/>
+	<path class="st0" d="M447.7,349.4c-26.1-50.3,41.1-69.1,37.4-125.6"/>
+	<path class="st0" d="M576.4,236.6c19.1-53.3-57.9-69.3-54.1-125.9"/>
+	<path class="st0" d="M576.4,236.6c19.1-53.3-17-63.6-5.1-119"/>
+	<path class="st0" d="M576.4,236.6c19.1-53.3,21.4-52.5,40.9-105.7"/>
+	<path class="st0" d="M576.4,236.6c19.1-53.3,56.6-36.7,83.2-86.8"/>
+	<path class="st0" d="M576.4,236.6c19.1-53.3,88.7-16.8,121.8-62.9"/>
+	<path class="st0" d="M666.7,296.4c41.7-38.4,28.1-52.2,67-93.4"/>
+	<path class="st0" d="M666.7,296.4c41.7-38.4,54.3-23.7,98.5-59.1"/>
+	<path class="st0" d="M694.9,334.3c48.7-28.9,48.7-28.9,97.5-57.8"/>
+	<path class="st0" d="M709.3,362.9c52.3-21.8,52.3-21.8,104.6-43.6"/>
+	<path class="st0" d="M719,391.5c54.7-14.6,54.7-14.6,109.5-29.2"/>
+	<path class="st0" d="M724.9,421.7c56.2-7.1,56.2-7.1,112.4-14.2"/>
+	<path class="st0" d="M726,466.9c56.5,4.2,57.3-13.7,113.9-13.1"/>
+	<path class="st0" d="M726,466.9c56.5,4.2,54.6,22.1,110.7,29.9"/>
+	<path class="st0" d="M718.9,509c54.7,14.8,54.7,14.8,109.4,29.5"/>
+	<path class="st0" d="M709.6,536.3c52.4,21.6,52.4,21.6,104.8,43.1"/>
+	<path class="st0" d="M697.3,561.6c49.3,27.9,49.3,27.9,98.7,55.8"/>
+	<path class="st0" d="M682.2,584.9c45.5,33.7,45.5,33.7,91.1,67.4"/>
+	<path class="st0" d="M664.5,606c41.1,39,41.1,39,82.2,78"/>
+	<path class="st0" d="M644.4,624.7c36.1,43.7,36.1,43.7,72.2,87.4"/>
+	<path class="st0" d="M622.4,640.8c30.6,47.7,30.6,47.7,61.2,95.4"/>
+	<path class="st0" d="M583.9,660.6c21,52.6,37.7,45.4,62,96.5"/>
+	<path class="st0" d="M583.9,660.6c21,52.6,3.8,58.8,21.4,112.7"/>
+	<path class="st0" d="M541.7,672.8c10.4,55.7,10.4,55.7,20.9,111.4"/>
+	<path class="st0" d="M511.9,676.4c3,56.6,3,56.6,5.9,113.2"/>
+	<path class="st0" d="M483.7,676.1c-4.1,56.5-4.1,56.5-8.1,113"/>
+	<path class="st0" d="M457,672.6c-10.7,55.6-10.7,55.6-21.5,111.3"/>
+	<path class="st0" d="M431.1,665.9c-17.2,54-17.2,54-34.5,108"/>
+	<path class="st0" d="M406.2,656.3c-23.5,51.6-23.5,51.6-46.9,103.2"/>
+	<path class="st0" d="M382.8,644c-29.3,48.5-29.3,48.5-58.6,97"/>
+	<path class="st0" d="M361.2,629.2c-34.7,44.8-34.7,44.8-69.4,89.6"/>
+	<path class="st0" d="M306.1,567.3c-48.5,29.3-6,83.4-46,123.6"/>
+	<path class="st0" d="M306.1,567.3c-48.5,29.3-30.3,55.9-75.1,90.5"/>
+	<path class="st0" d="M306.1,567.3c-48.5,29.3-49.6,27.4-98.4,56.3"/>
+	<path class="st0" d="M306.1,567.3c-48.5,29.3-65-2.3-116.8,20.8"/>
+	<path class="st0" d="M306.1,567.3c-48.5,29.3-76.7-33.4-130.8-16.6"/>
+	<path class="st0" d="M276.9,490.1c-55.8,10-55.8,10-111.5,20"/>
+	<path class="st0" d="M273.6,461.1c-56.6,2.8-56.6,2.8-113.2,5.6"/>
+	<path class="st0" d="M274,432.7c-56.5-4.3-56.5-4.3-113-8.7"/>
+	<path class="st0" d="M277.8,405.5c-55.6-11.1-55.6-11.1-111.1-22.3"/>
+	<path class="st0" d="M284.6,379.5c-53.9-17.6-53.9-17.6-107.7-35.3"/>
+	<path class="st0" d="M323.4,307.9c-44.2-35.5-79.7,21.4-131-2.7"/>
+	<path class="st0" d="M323.4,307.9c-44.2-35.5-62.8-9.5-110.6-39.8"/>
+	<path class="st0" d="M323.4,307.9c-44.2-35.5-43.1-36.8-87-72.6"/>
+	<path class="st0" d="M323.4,307.9c-44.2-35.5-20.8-61.2-60.2-101.9"/>
+	<path class="st0" d="M323.4,307.9c-44.2-35.5,3.8-82.5-30.7-127.4"/>
+	<path class="st0" d="M396.7,248.3c-25.8-50.4-40.9-42.1-69.8-90.9"/>
+	<path class="st0" d="M396.7,248.3c-25.8-50.4-10.2-57.8-33-109.7"/>
+	<path class="st0" d="M446.4,229.8c-13.4-55.1-29.2-50.7-45.8-104.9"/>
+	<path class="st0" d="M446.4,229.8c-13.4-55.1,2.7-58.5-7.5-114.2"/>
+	<path class="st0" d="M485.1,223.8c-3.7-56.5-3.7-56.5-7.4-113.1"/>
+</g>
+<g>
+	<circle class="st1" cx="500" cy="450" r="5"/>
+	<circle class="st2" cx="583.4" cy="373.3" r="5"/>
+	<circle class="st3" cx="602.7" cy="498" r="5"/>
+	<circle class="st4" cx="484.2" cy="562.2" r="5"/>
+	<circle class="st5" cx="387.4" cy="462.9" r="5"/>
+	<circle class="st6" cx="447.7" cy="349.4" r="5"/>
+	<circle class="st2" cx="576.4" cy="236.6" r="5"/>
+	<circle class="st2" cx="666.7" cy="296.4" r="5"/>
+	<circle class="st2" cx="694.9" cy="334.3" r="5"/>
+	<circle class="st2" cx="709.3" cy="362.9" r="5"/>
+	<circle class="st2" cx="719" cy="391.5" r="5"/>
+	<circle class="st3" cx="724.9" cy="421.7" r="5"/>
+	<circle class="st3" cx="726" cy="466.9" r="5"/>
+	<circle class="st3" cx="718.9" cy="509" r="5"/>
+	<circle class="st3" cx="709.6" cy="536.3" r="5"/>
+	<circle class="st3" cx="697.3" cy="561.6" r="5"/>
+	<circle class="st3" cx="682.2" cy="584.9" r="5"/>
+	<circle class="st3" cx="664.5" cy="606" r="5"/>
+	<circle class="st3" cx="644.4" cy="624.7" r="5"/>
+	<circle class="st3" cx="622.4" cy="640.8" r="5"/>
+	<circle class="st4" cx="583.9" cy="660.6" r="5"/>
+	<circle class="st4" cx="541.7" cy="672.8" r="5"/>
+	<circle class="st4" cx="511.9" cy="676.4" r="5"/>
+	<circle class="st4" cx="483.7" cy="676.1" r="5"/>
+	<circle class="st4" cx="457" cy="672.6" r="5"/>
+	<circle class="st4" cx="431.1" cy="665.9" r="5"/>
+	<circle class="st4" cx="406.2" cy="656.3" r="5"/>
+	<circle class="st4" cx="382.8" cy="644" r="5"/>
+	<circle class="st4" cx="361.2" cy="629.2" r="5"/>
+	<circle class="st5" cx="306.1" cy="567.3" r="5"/>
+	<circle class="st5" cx="276.9" cy="490.1" r="5"/>
+	<circle class="st5" cx="273.6" cy="461.1" r="5"/>
+	<circle class="st5" cx="274" cy="432.7" r="5"/>
+	<circle class="st5" cx="277.8" cy="405.5" r="5"/>
+	<circle class="st5" cx="284.6" cy="379.5" r="5"/>
+	<circle class="st6" cx="323.4" cy="307.9" r="5"/>
+	<circle class="st6" cx="396.7" cy="248.3" r="5"/>
+	<circle class="st6" cx="446.4" cy="229.8" r="5"/>
+	<circle class="st6" cx="485.1" cy="223.8" r="5"/>
+	<circle class="st2" cx="522.3" cy="110.7" r="10"/>
+	<circle class="st2" cx="571.3" cy="117.6" r="9.4"/>
+	<circle class="st2" cx="617.4" cy="130.9" r="7.9"/>
+	<circle class="st2" cx="659.7" cy="149.8" r="7.3"/>
+	<circle class="st2" cx="698.2" cy="173.8" r="6.6"/>
+	<circle class="st2" cx="733.7" cy="203.1" r="8.3"/>
+	<circle class="st2" cx="765.3" cy="237.3" r="7.2"/>
+	<circle class="st2" cx="792.4" cy="276.5" r="9.8"/>
+	<circle class="st2" cx="813.9" cy="319.3" r="7.5"/>
+	<circle class="st2" cx="828.5" cy="362.3" r="6.4"/>
+	<circle class="st3" cx="837.3" cy="407.5" r="8.5"/>
+	<circle class="st3" cx="840" cy="453.8" r="6.7"/>
+	<circle class="st3" cx="836.8" cy="496.8" r="4.3"/>
+	<circle class="st3" cx="828.3" cy="538.5" r="6"/>
+	<circle class="st3" cx="814.4" cy="579.4" r="5.1"/>
+	<circle class="st3" cx="796" cy="617.4" r="4.6"/>
+	<circle class="st3" cx="773.3" cy="652.3" r="4.4"/>
+	<circle class="st3" cx="746.7" cy="684" r="4.2"/>
+	<circle class="st3" cx="716.6" cy="712.1" r="4.1"/>
+	<circle class="st3" cx="683.6" cy="736.2" r="3.9"/>
+	<circle class="st4" cx="645.9" cy="757.1" r="7.1"/>
+	<circle class="st4" cx="605.3" cy="773.3" r="4.6"/>
+	<circle class="st4" cx="562.6" cy="784.2" r="7.6"/>
+	<circle class="st4" cx="517.8" cy="789.5" r="6"/>
+	<circle class="st4" cx="475.6" cy="789.1" r="3.8"/>
+	<circle class="st4" cx="435.5" cy="783.8" r="3.6"/>
+	<circle class="st4" cx="396.6" cy="773.9" r="3.5"/>
+	<circle class="st4" cx="359.3" cy="759.5" r="3.4"/>
+	<circle class="st4" cx="324.2" cy="741" r="3"/>
+	<circle class="st4" cx="291.8" cy="718.8" r="2.8"/>
+	<circle class="st5" cx="260.1" cy="690.9" r="7"/>
+	<circle class="st5" cx="230.9" cy="657.9" r="5.2"/>
+	<circle class="st5" cx="207.7" cy="623.7" r="3.5"/>
+	<circle class="st5" cx="189.3" cy="588.1" r="3.5"/>
+	<circle class="st5" cx="175.3" cy="550.8" r="3.3"/>
+	<circle class="st5" cx="165.4" cy="510.1" r="6.1"/>
+	<circle class="st5" cx="160.4" cy="466.7" r="5.7"/>
+	<circle class="st5" cx="161" cy="424" r="4.8"/>
+	<circle class="st5" cx="166.6" cy="383.2" r="3.7"/>
+	<circle class="st5" cx="176.9" cy="344.2" r="3.5"/>
+	<circle class="st6" cx="192.4" cy="305.2" r="5.9"/>
+	<circle class="st6" cx="212.8" cy="268.1" r="4"/>
+	<circle class="st6" cx="236.4" cy="235.3" r="3.3"/>
+	<circle class="st6" cx="263.1" cy="206.1" r="3.1"/>
+	<circle class="st6" cx="292.7" cy="180.5" r="2.5"/>
+	<circle class="st6" cx="326.9" cy="157.4" r="6.1"/>
+	<circle class="st6" cx="363.7" cy="138.5" r="2.6"/>
+	<circle class="st6" cx="400.6" cy="124.8" r="3.4"/>
+	<circle class="st6" cx="438.9" cy="115.5" r="2.7"/>
+	<circle class="st6" cx="477.7" cy="110.7" r="3"/>
+</g>
+<g transform="
+	        rotate(99.95227093278163)
+	        translate(0,0)
+	        rotate(180)
+	      ">
+</g>
+<g transform="
+	        rotate(-70.28911919975214)
+	        translate(226.66666666666666,0)
+	        rotate(0)
+	      ">
+	<text transform="matrix(1 0 0 1 -287.1237 616.8832)" class="st7 st8">China</text>
+</g>
+<g transform="
+	        rotate(-42.64574669691207)
+	        translate(226.66666666666666,0)
+	        rotate(0)
+	      ">
+	<text transform="matrix(1 0 0 1 35.235 664.1389)" class="st7 st8">India</text>
+</g>
+<g transform="
+	        rotate(-30.68064490743486)
+	        translate(226.66666666666666,0)
+	        rotate(0)
+	      ">
+	<text transform="matrix(1 0 0 1 156.0445 636.5434)" class="st7 st8">Pakistan</text>
+</g>
+<g transform="
+	        rotate(-22.600173535756852)
+	        translate(226.66666666666666,0)
+	        rotate(0)
+	      ">
+	<text transform="matrix(1 0 0 1 255.4244 601.9994)" class="st7 st8">Japan</text>
+</g>
+<g transform="
+	        rotate(-14.954964886927357)
+	        translate(226.66666666666666,0)
+	        rotate(0)
+	      ">
+	<text transform="matrix(1 0 0 1 317.5683 558.1942)" class="st7 st8">Indonesia</text>
+</g>
+<g transform="
+	        rotate(-7.175418007142554)
+	        translate(226.66666666666666,0)
+	        rotate(0)
+	      ">
+	<text transform="matrix(1 0 0 1 402.196 503.3362)" class="st7 st8">Nigeria</text>
+</g>
+<g transform="
+	        rotate(4.276694773082738)
+	        translate(226.66666666666666,0)
+	        rotate(0)
+	      ">
+	<text transform="matrix(1 0 0 1 500.5941 405.8666)" class="st7 st8">Egypt</text>
+</g>
+<g transform="
+	        rotate(15.089989454447377)
+	        translate(226.66666666666666,0)
+	        rotate(0)
+	      ">
+	<text transform="matrix(1 0 0 1 510.3924 294.7578)" class="st7 st8">Democratic Republic of the Congo</text>
+</g>
+<g transform="
+	        rotate(22.378246442553532)
+	        translate(226.66666666666666,0)
+	        rotate(0)
+	      ">
+	<text transform="matrix(1 0 0 1 591.5408 220.1578)" class="st7 st8">Somalia</text>
+</g>
+<g transform="
+	        rotate(29.488469445333223)
+	        translate(226.66666666666666,0)
+	        rotate(0)
+	      ">
+	<text transform="matrix(1 0 0 1 621.823 139.987)" class="st7 st8">Sudan</text>
+</g>
+<g transform="
+	        rotate(36.51165742041374)
+	        translate(226.66666666666666,0)
+	        rotate(0)
+	      ">
+	<text transform="matrix(1 0 0 1 632.474 58.5946)" class="st7 st8">Angola</text>
+</g>
+<g transform="
+	        rotate(43.48671475653228)
+	        translate(226.66666666666666,0)
+	        rotate(0)
+	      ">
+	<text transform="matrix(1 0 0 1 626.4215 -23.1964)" class="st7 st8">Tanzania</text>
+</g>
+<g transform="
+	        rotate(50.42185338254632)
+	        translate(226.66666666666666,0)
+	        rotate(0)
+	      ">
+	<text transform="matrix(1 0 0 1 608.8345 -104.2636)" class="st7 st8">Ivory Coast</text>
+</g>
+<g transform="
+	        rotate(57.31188640340221)
+	        translate(226.66666666666666,0)
+	        rotate(0)
+	      ">
+	<text transform="matrix(1 0 0 1 588.842 -183.3751)" class="st7 st8">South Africa</text>
+</g>
+<g transform="
+	        rotate(68.27264509107513)
+	        translate(226.66666666666666,0)
+	        rotate(0)
+	      ">
+	<text transform="matrix(1 0 0 1 566.5589 -303.4866)" class="st7 st8">Russia</text>
+</g>
+<g transform="
+	        rotate(79.39047322286439)
+	        translate(226.66666666666666,0)
+	        rotate(0)
+	      ">
+	<text transform="matrix(1 0 0 1 498.174 -414.1943)" class="st7 st8">Turkey</text>
+</g>
+<g transform="
+	        rotate(86.99405045724507)
+	        translate(226.66666666666666,0)
+	        rotate(0)
+	      ">
+	<text transform="matrix(1 0 0 1 398.4486 -481.3087)" class="st7 st8">United Kingdom</text>
+</g>
+<g transform="
+	        rotate(94.11445773555309)
+	        translate(226.66666666666666,0)
+	        rotate(180)
+	      ">
+	<text transform="matrix(1 0 0 1 -406.9657 525.4045)" class="st7 st8">Germany</text>
+</g>
+<g transform="
+	        rotate(100.931600101979)
+	        translate(226.66666666666666,0)
+	        rotate(180)
+	      ">
+	<text transform="matrix(1 0 0 1 -341.0159 570.6702)" class="st7 st8">Spain</text>
+</g>
+<g transform="
+	        rotate(107.70149812093646)
+	        translate(226.66666666666666,0)
+	        rotate(180)
+	      ">
+	<text transform="matrix(1 0 0 1 -270.665 607.5587)" class="st7 st8">Ukraine</text>
+</g>
+<g transform="
+	        rotate(114.44959760818256)
+	        translate(226.66666666666666,0)
+	        rotate(180)
+	      ">
+	<text transform="matrix(1 0 0 1 -196.6998 635.8204)" class="st7 st8">Italy</text>
+</g>
+<g transform="
+	        rotate(121.1434398886015)
+	        translate(226.66666666666666,0)
+	        rotate(180)
+	      ">
+	<text transform="matrix(1 0 0 1 -120.5525 655.0759)" class="st7 st8">France</text>
+</g>
+<g transform="
+	        rotate(127.75949235683251)
+	        translate(226.66666666666666,0)
+	        rotate(180)
+	      ">
+	<text transform="matrix(1 0 0 1 -43.5908 665.2575)" class="st7 st8">Belarus</text>
+</g>
+<g transform="
+	        rotate(148.82268308106674)
+	        translate(226.66666666666666,0)
+	        rotate(180)
+	      ">
+	<text transform="matrix(1 0 0 1 200.825 638.2568)" class="st7 st8">Brazil</text>
+</g>
+<g transform="
+	        rotate(169.81731528617075)
+	        translate(226.66666666666666,0)
+	        rotate(180)
+	      ">
+	<text transform="matrix(1 0 0 1 418.5705 525.7119)" class="st7 st8">Peru</text>
+</g>
+<g transform="
+	        rotate(177.18580506846297)
+	        translate(226.66666666666666,0)
+	        rotate(180)
+	      ">
+	<text transform="matrix(1 0 0 1 483.3034 468.412)" class="st7 st8">Colombia</text>
+</g>
+<g transform="
+	        rotate(184.38898507557423)
+	        translate(226.66666666666666,0)
+	        rotate(180)
+	      ">
+	<text transform="matrix(1 0 0 1 538.9712 404.8233)" class="st7 st8">Chile</text>
+</g>
+<g transform="
+	        rotate(191.33463289211215)
+	        translate(226.66666666666666,0)
+	        rotate(180)
+	      ">
+	<text transform="matrix(1 0 0 1 584.6905 337.36)" class="st7 st8">Venezuela</text>
+</g>
+<g transform="
+	        rotate(198.124458036119)
+	        translate(226.66666666666666,0)
+	        rotate(180)
+	      ">
+	<text transform="matrix(1 0 0 1 621.1785 266.5378)" class="st7 st8">Argentina</text>
+</g>
+<g transform="
+	        rotate(218.81465905091414)
+	        translate(226.66666666666666,0)
+	        rotate(180)
+	      ">
+	<text transform="matrix(1 0 0 1 677.6502 31.6348)" class="st7 st8">United States</text>
+</g>
+<g transform="
+	        rotate(242.88071840971895)
+	        translate(226.66666666666666,0)
+	        rotate(180)
+	      ">
+	<text transform="matrix(1 0 0 1 634.4491 -245.4934)" class="st7 st8">Mexico</text>
+</g>
+<g transform="
+	        rotate(256.32955003967896)
+	        translate(226.66666666666666,0)
+	        rotate(180)
+	      ">
+	<text transform="matrix(1 0 0 1 561.4207 -385.0782)" class="st7 st8">Canada</text>
+</g>
+<g transform="
+	        rotate(266.2385087668919)
+	        translate(226.66666666666666,0)
+	        rotate(180)
+	      ">
+	<text transform="matrix(1 0 0 1 487.8325 -474.9951)" class="st7 st8">Cuba</text>
+</g>
+<g transform="
+	        rotate(-86.23850876689188)
+	        translate(340,0)
+	        rotate(0)
+	      ">
+	<text transform="matrix(1 0 0 1 -401.2292 522.8504)" class="st9 st8">Shanghai</text>
+</g>
+<g transform="
+	        rotate(-77.8875788892607)
+	        translate(340,0)
+	        rotate(0)
+	      ">
+	<text transform="matrix(1 0 0 1 -320.649 577.6986)" class="st9 st8">Beijing</text>
+</g>
+<g transform="
+	        rotate(-69.80360437561907)
+	        translate(340,0)
+	        rotate(0)
+	      ">
+	<text transform="matrix(1 0 0 1 -236.7959 619.0209)" class="st9 st8">Tianjin</text>
+</g>
+<g transform="
+	        rotate(-61.98539800275988)
+	        translate(340,0)
+	        rotate(0)
+	      ">
+	<text transform="matrix(1 0 0 1 -150.0809 647.1838)" class="st9 st8">Guangzhou</text>
+</g>
+<g transform="
+	        rotate(-54.33972963261242)
+	        translate(340,0)
+	        rotate(0)
+	      ">
+	<text transform="matrix(1 0 0 1 -62.5613 662.9902)" class="st9 st8">Shenzhen</text>
+</g>
+<g transform="
+	        rotate(-46.56905965238636)
+	        translate(340,0)
+	        rotate(0)
+	      ">
+	<text transform="matrix(1 0 0 1 30.2675 666.8735)" class="st9 st8">Delhi</text>
+</g>
+<g transform="
+	        rotate(-38.72243374143778)
+	        translate(340,0)
+	        rotate(0)
+	      ">
+	<text transform="matrix(1 0 0 1 120.7586 658.2635)" class="st9 st8">Mumbai</text>
+</g>
+<g transform="
+	        rotate(-30.68064490743486)
+	        translate(340,0)
+	        rotate(0)
+	      ">
+	<text transform="matrix(1 0 0 1 215.2418 636.5434)" class="st9 st8">Karachi</text>
+</g>
+<g transform="
+	        rotate(-22.600173535756852)
+	        translate(340,0)
+	        rotate(0)
+	      ">
+	<text transform="matrix(1 0 0 1 301.1345 601.9993)" class="st9 st8">Tokyo</text>
+</g>
+<g transform="
+	        rotate(-14.954964886927357)
+	        translate(340,0)
+	        rotate(0)
+	      ">
+	<text transform="matrix(1 0 0 1 378.3823 558.1942)" class="st9 st8">Jakarta</text>
+</g>
+<g transform="
+	        rotate(-7.175418007142554)
+	        translate(340,0)
+	        rotate(0)
+	      ">
+	<text transform="matrix(1 0 0 1 453.3884 503.3362)" class="st9 st8">Lagos</text>
+</g>
+<g transform="
+	        rotate(0.6412208029721285)
+	        translate(340,0)
+	        rotate(0)
+	      ">
+	<text transform="matrix(1 0 0 1 516.7393 438.7827)" class="st9 st8">Cairo</text>
+</g>
+<g transform="
+	        rotate(7.91216874319332)
+	        translate(340,0)
+	        rotate(0)
+	      ">
+	<text transform="matrix(1 0 0 1 566.4378 371.2949)" class="st9 st8">Alexandria</text>
+</g>
+<g transform="
+	        rotate(15.089989454447377)
+	        translate(340,0)
+	        rotate(0)
+	      ">
+	<text transform="matrix(1 0 0 1 610.9176 298.7213)" class="st9 st8">Kinshasa-Brazzaville</text>
+</g>
+<g transform="
+	        rotate(22.378246442553532)
+	        translate(340,0)
+	        rotate(0)
+	      ">
+	<text transform="matrix(1 0 0 1 643.7837 220.1575)" class="st9 st8">Mogadishu</text>
+</g>
+<g transform="
+	        rotate(29.488469445333223)
+	        translate(340,0)
+	        rotate(0)
+	      ">
+	<text transform="matrix(1 0 0 1 666.3566 139.987)" class="st9 st8">Khartoum-Omdurman</text>
+</g>
+<g transform="
+	        rotate(36.51165742041374)
+	        translate(340,0)
+	        rotate(0)
+	      ">
+	<text transform="matrix(1 0 0 1 679.0471 58.5946)" class="st9 st8">Luanda</text>
+</g>
+<g transform="
+	        rotate(43.48671475653228)
+	        translate(340,0)
+	        rotate(0)
+	      ">
+	<text transform="matrix(1 0 0 1 681.6926 -23.1963)" class="st9 st8">Dar es Salaam</text>
+</g>
+<g transform="
+	        rotate(50.42185338254632)
+	        translate(340,0)
+	        rotate(0)
+	      ">
+	<text transform="matrix(1 0 0 1 674.5291 -104.2629)" class="st9 st8">Abidjan</text>
+</g>
+<g transform="
+	        rotate(57.31188640340221)
+	        translate(340,0)
+	        rotate(0)
+	      ">
+	<text transform="matrix(1 0 0 1 657.6528 -183.3755)" class="st9 st8">Greater Johannesburg</text>
+</g>
+<g transform="
+	        rotate(64.5869593823075)
+	        translate(340,0)
+	        rotate(0)
+	      ">
+	<text transform="matrix(1 0 0 1 633.1567 -264.0993)" class="st9 st8">Moscow</text>
+</g>
+<g transform="
+	        rotate(71.95833079984277)
+	        translate(340,0)
+	        rotate(0)
+	      ">
+	<text transform="matrix(1 0 0 1 592.3696 -341.64)" class="st9 st8">Saint Petersburg</text>
+</g>
+<g transform="
+	        rotate(79.39047322286439)
+	        translate(340,0)
+	        rotate(0)
+	      ">
+	<text transform="matrix(1 0 0 1 546.9686 -414.1947)" class="st9 st8">Istanbul</text>
+</g>
+<g transform="
+	        rotate(86.99405045724507)
+	        translate(340,0)
+	        rotate(0)
+	      ">
+	<text transform="matrix(1 0 0 1 486.5807 -481.3084)" class="st9 st8">London</text>
+</g>
+<g transform="
+	        rotate(94.11445773555309)
+	        translate(340,0)
+	        rotate(180)
+	      ">
+	<text transform="matrix(1 0 0 1 -450.1372 525.4044)" class="st9 st8">Berlin</text>
+</g>
+<g transform="
+	        rotate(100.931600101979)
+	        translate(340,0)
+	        rotate(180)
+	      ">
+	<text transform="matrix(1 0 0 1 -388.4066 570.6702)" class="st9 st8">Madrid</text>
+</g>
+<g transform="
+	        rotate(107.70149812093646)
+	        translate(340,0)
+	        rotate(180)
+	      ">
+	<text transform="matrix(1 0 0 1 -306.2516 607.5588)" class="st9 st8">Kiev</text>
+</g>
+<g transform="
+	        rotate(114.44959760818256)
+	        translate(340,0)
+	        rotate(180)
+	      ">
+	<text transform="matrix(1 0 0 1 -238.9253 635.8206)" class="st9 st8">Rome</text>
+</g>
+<g transform="
+	        rotate(121.1434398886015)
+	        translate(340,0)
+	        rotate(180)
+	      ">
+	<text transform="matrix(1 0 0 1 -159.0555 655.0761)" class="st9 st8">Paris</text>
+</g>
+<g transform="
+	        rotate(127.75949235683251)
+	        translate(340,0)
+	        rotate(180)
+	      ">
+	<text transform="matrix(1 0 0 1 -85.7652 665.2572)" class="st9 st8">Minsk</text>
+</g>
+<g transform="
+	        rotate(134.88592761973038)
+	        translate(340,0)
+	        rotate(180)
+	      ">
+	<text transform="matrix(1 0 0 1 -26.3507 666.2267)" class="st9 st8">São Paulo</text>
+</g>
+<g transform="
+	        rotate(142.31113017713537)
+	        translate(340,0)
+	        rotate(180)
+	      ">
+	<text transform="matrix(1 0 0 1 41.4798 656.1973)" class="st9 st8">Rio de Janeiro</text>
+</g>
+<g transform="
+	        rotate(149.28109034651942)
+	        translate(340,0)
+	        rotate(180)
+	      ">
+	<text transform="matrix(1 0 0 1 149.2584 636.6769)" class="st9 st8">Salvador</text>
+</g>
+<g transform="
+	        rotate(156.03319111338516)
+	        translate(340,0)
+	        rotate(180)
+	      ">
+	<text transform="matrix(1 0 0 1 229.498 608.7114)" class="st9 st8">Brasília</text>
+</g>
+<g transform="
+	        rotate(162.7594385424031)
+	        translate(340,0)
+	        rotate(180)
+	      ">
+	<text transform="matrix(1 0 0 1 291.9918 572.3792)" class="st9 st8">Fortaleza</text>
+</g>
+<g transform="
+	        rotate(169.81731528617075)
+	        translate(340,0)
+	        rotate(180)
+	      ">
+	<text transform="matrix(1 0 0 1 378.1752 525.7119)" class="st9 st8">Lima</text>
+</g>
+<g transform="
+	        rotate(177.18580506846297)
+	        translate(340,0)
+	        rotate(180)
+	      ">
+	<text transform="matrix(1 0 0 1 432.1717 468.4121)" class="st9 st8">Bogotá</text>
+</g>
+<g transform="
+	        rotate(184.38898507557423)
+	        translate(340,0)
+	        rotate(180)
+	      ">
+	<text transform="matrix(1 0 0 1 480.9797 404.8233)" class="st9 st8">Santiago</text>
+</g>
+<g transform="
+	        rotate(191.33463289211215)
+	        translate(340,0)
+	        rotate(180)
+	      ">
+	<text transform="matrix(1 0 0 1 531.0869 337.36)" class="st9 st8">Caracas</text>
+</g>
+<g transform="
+	        rotate(198.124458036119)
+	        translate(340,0)
+	        rotate(180)
+	      ">
+	<text transform="matrix(1 0 0 1 542.5381 266.5376)" class="st9 st8">Buenos Aires</text>
+</g>
+<g transform="
+	        rotate(205.20306042597406)
+	        translate(340,0)
+	        rotate(180)
+	      ">
+	<text transform="matrix(1 0 0 1 566.7693 188.6542)" class="st9 st8">New York City</text>
+</g>
+<g transform="
+	        rotate(212.3454657335766)
+	        translate(340,0)
+	        rotate(180)
+	      ">
+	<text transform="matrix(1 0 0 1 595.0455 107.0717)" class="st9 st8">Los Angeles</text>
+</g>
+<g transform="
+	        rotate(219.15633613192972)
+	        translate(340,0)
+	        rotate(180)
+	      ">
+	<text transform="matrix(1 0 0 1 624.0628 27.6286)" class="st9 st8">Chicago</text>
+</g>
+<g transform="
+	        rotate(225.84298074368485)
+	        translate(340,0)
+	        rotate(180)
+	      ">
+	<text transform="matrix(1 0 0 1 622.535 -50.828)" class="st9 st8">Houston</text>
+</g>
+<g transform="
+	        rotate(232.4262576758543)
+	        translate(340,0)
+	        rotate(180)
+	      ">
+	<text transform="matrix(1 0 0 1 595.1037 -127.4761)" class="st9 st8">Philadelphia</text>
+</g>
+<g transform="
+	        rotate(239.3921462255118)
+	        translate(340,0)
+	        rotate(180)
+	      ">
+	<text transform="matrix(1 0 0 1 575.2477 -206.8087)" class="st9 st8">Mexico City</text>
+</g>
+<g transform="
+	        rotate(246.36929059392622)
+	        translate(340,0)
+	        rotate(180)
+	      ">
+	<text transform="matrix(1 0 0 1 505.5742 -283.2894)" class="st9 st8">Ecatepec de Morelos</text>
+</g>
+<g transform="
+	        rotate(253.00696932486483)
+	        translate(340,0)
+	        rotate(180)
+	      ">
+	<text transform="matrix(1 0 0 1 531.0458 -352.2491)" class="st9 st8">Toronto</text>
+</g>
+<g transform="
+	        rotate(259.6521307544931)
+	        translate(340,0)
+	        rotate(180)
+	      ">
+	<text transform="matrix(1 0 0 1 483.1349 -416.631)" class="st9 st8">Montreal</text>
+</g>
+<g transform="
+	        rotate(266.2385087668919)
+	        translate(340,0)
+	        rotate(180)
+	      ">
+	<text transform="matrix(1 0 0 1 438.3016 -474.995)" class="st9 st8">Havana</text>
+</g>
+<g id="legend" transform="translate(1000,10)">
+	<g transform="translate(5,0)">
+		<g transform="translate(0,0)">
+			<g transform="translate(10,15.734375)">
+				<g transform="translate(0, 0)">
+					<rect x="-53.2" y="627.5" class="st0" width="0" height="0"/>
+					<text transform="matrix(1 0 0 1 -38.1965 632.4993)" class="st7 st8">0.0</text>
+				</g>
+				<g transform="translate(0, 25.734375)">
+					<circle class="st0" cx="-53.2" cy="627.5" r="10"/>
+					<text transform="matrix(1 0 0 1 -38.1965 632.4993)" class="st7 st8">24256800.0</text>
+				</g>
+			</g>
+			<text transform="matrix(1 0 0 1 -53.1965 627.4993)" class="st9 st10">Population</text>
+		</g>
+		<g transform="translate(0,84.0625)">
+			<g transform="translate(0,15.734375)">
+				<g transform="translate(0, 0)">
+					<rect x="-53.2" y="627.5" class="st3" width="15" height="15"/>
+					<text transform="matrix(1 0 0 1 -33.1965 639.9993)" class="st7 st8">Africa</text>
+				</g>
+				<g transform="translate(0, 20.734375)">
+					<rect x="-53.2" y="627.5" class="st2" width="15" height="15"/>
+					<text transform="matrix(1 0 0 1 -33.1965 639.9993)" class="st7 st8">Asia</text>
+				</g>
+				<g transform="translate(0, 41.46875)">
+					<rect x="-53.2" y="627.5" class="st4" width="15" height="15"/>
+					<text transform="matrix(1 0 0 1 -33.1965 639.9993)" class="st7 st8">Europe</text>
+				</g>
+				<g transform="translate(0, 62.203125)">
+					<rect x="-53.2" y="627.5" class="st6" width="15" height="15"/>
+					<text transform="matrix(1 0 0 1 -33.1965 639.9993)" class="st7 st8">North America</text>
+				</g>
+				<g transform="translate(0, 82.9375)">
+					<rect x="-53.2" y="627.5" class="st5" width="15" height="15"/>
+					<text transform="matrix(1 0 0 1 -33.1965 639.9993)" class="st7 st8">South America</text>
+				</g>
+			</g>
+			<text transform="matrix(1 0 0 1 -53.1965 627.4993)" class="st9 st10">Continent</text>
+		</g>
+	</g>
+</g>
+</svg>
